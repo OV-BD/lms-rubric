@@ -1,0 +1,5 @@
+{
+  "name": " LMS Evaluation Rubric",
+  "description": "It calculates weighted scores and uses Gemini to generate AI-powered summaries of your evaluations.",
+  "requestFramePermissions": []
+}
